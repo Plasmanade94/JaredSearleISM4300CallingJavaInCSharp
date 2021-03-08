@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaredSearleCallingJavaInCSharp", "JaredSearleCallingJavaInCSharp\JaredSearleCallingJavaInCSharp.csproj", "{3716C05E-DABE-4948-8A34-92AC477BCFAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3716C05E-DABE-4948-8A34-92AC477BCFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3716C05E-DABE-4948-8A34-92AC477BCFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3716C05E-DABE-4948-8A34-92AC477BCFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3716C05E-DABE-4948-8A34-92AC477BCFAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED019A7A-946C-438D-8C03-E0C02C32B6EB}
+	EndGlobalSection
+EndGlobal
